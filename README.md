@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lay Sheth aka CLoaKY</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h1 align="center"> I'm Lay Sheth aka CLoaKY</h1>
 <h3 align="center">A unexpectedly good Python programmer who also happens to know a lot about machine learning and application development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloaky233&label=Visitors!&color=000000&style=flat" alt="cloaky233" /> </p>
@@ -31,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&theme=dark&locale=en" alt="cloaky233" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark" alt="cloaky233" /></p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
