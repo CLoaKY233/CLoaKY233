@@ -60,11 +60,11 @@ Pre-final year student passionate about merging Rust's performance with Python's
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=graywhite&title_color=3a6186&text_color=000000&icon_color=89253e&bg_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=3a6186&text_color=ffffff&icon_color=89253e&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=default&ring=3a6186&fire=89253e&currStreakLabel=3a6186&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark&background=0D1117&ring=3a6186&fire=89253e&currStreakLabel=3a6186&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect
