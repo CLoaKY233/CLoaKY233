@@ -1,42 +1,79 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:89253e&height=300&section=header&text=Lay%20Sheth&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Rust%20Enthusiast%20|%20Python%20Virtuoso%20|%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3a6186&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Deep+Learning+Practitioner;Distributed+Systems+Developer;AutoML+Explorer;Diving+Deep+into+Rust" alt="Typing SVG" />
 </p>
-<h1 align="center"> I'm Lay Sheth aka CLoaKY</h1>
-<h3 align="center">A unexpectedly good Python programmer who also happens to know a lot about machine learning and application development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloaky233&label=Visitors!&color=000000&style=flat" alt="cloaky233" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloaky233" alt="cloaky233" /></a> </p>
-
-- 🔭 I’m currently working on automating my college's project exhibition process **Project Exhibition**
-
-- 🌱 I’m currently learning Deep Learning algorithms **IBM DL course on Coursera**
-
-- 💬 Ask me about **Python : Data processing - Pandas, Visualization : Matplotlib, Discord Bots : Discord.py, Machine Learning : Tensor-Flow, GUI : Tkinter, Pyqt, CTK, Pyautogui, and many others**
-
-- 📫 How to reach me **laysheth1@gmail.com**
-
-- 📄 Know about my experiences [NA](NA)
-
-- ⚡ Fun fact **I think my capabilities along with AI help can help create the most unexpectedly awesome projects one's ever seen!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@theweirdovibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theweirdovibes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/laysheth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laysheth1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloaky233&show_icons=true&theme=dark&locale=en&layout=compact" alt="cloaky233" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&theme=dark&locale=en" alt="cloaky233" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark" alt="cloaky233" /></p>
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233a6186.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%2389253e.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
+
+## 🚀 About Me
+
+Pre-final year student passionate about merging Rust's performance with Python's versatility. I specialize in machine learning, distributed systems, and high-performance computing.
+
+- 🔬 Exploring: Rust, Deep Neural Networks, SurrealDB
+- 🛠️ Building: ML pipelines, Web scrapers, Distributed systems
+- 🌟 Innovating: Cross-language ML implementations
+- 🎯 Mission: Optimize ML workflows through language synergy
+
+## 💻 Tech Stack
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/-SurrealDB-FF00FF?style=flat-square&logo=SurrealDB&logoColor=white)
+
+## 🌟 Featured Projects
+
+1. **🐾 Real-time Pet Classifier**
+   - Distributed image classification system using Kafka and CNN
+   - Tech: TensorFlow, OpenCV, Kafka
+   - Features: Real-time processing, scalable architecture
+
+2. **🔬 SurrealDB ML Toolkit**
+   - Integration of SurrealDB with machine learning workflows
+   - Tech: Rust, Python, PyTorch, SurrealDB
+   - Demonstrates: Data operations, model training with SurrealDB
+
+3. **🛒 Dual Amazon Scraper**
+   - High-performance web scraping tools for Amazon India
+   - Tech: Python & Rust
+   - Highlights: Speed optimization, large-scale data extraction
+
+4. **🧠 Neural Network Comparison (WIP)**
+   - Benchmarking neural network implementations
+   - Tech: Rust, PyTorch, Keras
+   - Goal: Performance analysis across different frameworks
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=graywhite&title_color=3a6186&text_color=000000&icon_color=89253e&bg_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=default&ring=3a6186&fire=89253e&currStreakLabel=3a6186&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on projects and innovative ideas. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-3a6186?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:89253e&height=100&section=footer" width="100%"/>
+</div>
