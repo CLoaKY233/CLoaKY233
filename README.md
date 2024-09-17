@@ -3,14 +3,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3a6186&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Deep+Learning+Practitioner;Distributed+Systems+Developer;AutoML+Explorer;Diving+Deep+into+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3a6186&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Deep+Learning+Practitioner;Rust+Enthusiast+and+Dev;AutoML+Explorer;Diving+Deep+into+Rust" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233a6186.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%2389253e.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SurrealDB-%23FF00FF.svg?&style=for-the-badge&logo=surrealdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-%23CD792C.svg?&style=for-the-badge&logo=polars&logoColor=white" />
 </p>
 
 ## 🚀 About Me
