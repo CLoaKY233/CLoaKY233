@@ -59,13 +59,16 @@ Pre-final year student passionate about merging Rust's performance with Python's
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=3a6186&text_color=ffffff&icon_color=89253e&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=cloaky233&theme=react-dark&bg_color=0D1117&hide_border=true#gh-dark-mode-only)](https://github.com/cloaky233)
+
+
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; gap: 10px; max-width: 100%;">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=3a6186&text_color=ffffff&icon_color=89253e&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark&background=0D1117&ring=3a6186&fire=89253e&currStreakLabel=3a6186&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark&background=0D1117&ring=3a6186&fire=89253e&currStreakLabel=3a6186&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Let's Connect
 
