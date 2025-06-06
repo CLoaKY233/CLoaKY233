@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/badge/Polars-%23000000.svg?&style=for-the-badge&logo=polars&logoColor=white" />
 </p>
 
+## 📊 Daily.dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/cloaky233">
+    <img src="https://api.daily.dev/devcards/v2/c4osc1It7LKXz2ZAzfkyZ.png?type=wide&r=syl" width="652" alt="Lay Sheth aka CLoaKY's Dev Card"/>
+  </a>
+</div>
+
 ##  About Me
 
 Pre-final year student passionate about merging Rust's performance with Python's versatility. I specialize in machine learning, distributed systems, and high-performance computing.
@@ -59,15 +67,12 @@ Pre-final year student passionate about merging Rust's performance with Python's
 
 ## 📈 GitHub Stats
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloaky233&bg_color=000000&color=ffffff&line=ffffff&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; gap: 10px; max-width: 100%;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloaky233&show_icons=true&count_private=true&hide=issues&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=f0f0f0&bg_color=000000&hide_border=true" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cloaky233&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
-
 
 ## Let's Connect
 
