@@ -16,13 +16,8 @@
   <img src="https://img.shields.io/badge/Polars-%23000000.svg?&style=for-the-badge&logo=polars&logoColor=white" />
 </p>
 
-## 📊 Daily.dev Card
 
-<div align="center">
-  <a href="https://app.daily.dev/cloaky233">
-    <img src="https://api.daily.dev/devcards/v2/c4osc1It7LKXz2ZAzfkyZ.png?type=wide&r=syl" width="652" alt="Lay Sheth aka CLoaKY's Dev Card"/>
-  </a>
-</div>
+
 
 ##  About Me
 
@@ -64,6 +59,14 @@ Pre-final year student passionate about merging Rust's performance with Python's
    - Benchmarking neural network implementations
    - Tech: Rust, PyTorch, Keras
    - Goal: Performance analysis across different frameworks
+  
+## Daily.dev
+
+<div align="center">
+  <a href="https://app.daily.dev/cloaky233">
+    <img src="https://github.com/cloaky233/cloaky233/blob/main/devcard.png?raw=true" width="400" alt="Lay Sheth aka CLoaKY's Dev Card"/>
+  </a>
+</div>
 
 ## 📈 GitHub Stats
 
