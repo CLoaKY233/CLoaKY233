@@ -21,7 +21,7 @@
 
 ##  About Me
 
-Pre-final year student passionate about merging Rust's performance with Python's versatility. I specialize in machine learning, distributed systems, and high-performance computing.
+Final year student passionate about merging Rust's performance with Python's versatility. I specialize in machine learning, distributed systems, and high-performance computing.
 
 -  Exploring: Rust, Deep Neural Networks, SurrealDB
 -  Building: ML pipelines, Web scrapers, Distributed systems
