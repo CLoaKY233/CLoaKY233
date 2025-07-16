@@ -3,8 +3,6 @@
 </div>
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/cloaky233)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Deep+Learning+Practitioner;Rust+Enthusiast+and+Dev;AutoML+Explorer;Diving+Deep+into+Rust" alt="Typing SVG" />
 </p>
@@ -18,6 +16,8 @@
   <img src="https://img.shields.io/badge/OpenCV-%23000000.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Polars-%23000000.svg?&style=for-the-badge&logo=polars&logoColor=white" />
 </p>
+
+
 
 
 
@@ -85,10 +85,10 @@ Final year student passionate about merging Rust's performance with Python's ver
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out!
 
 <p align="center">
-  <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://cloaky.works"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://cloaky.works"><img src="https://img.shields.io/badge/Website-cloaky.works-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 <div align="center">
