@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=300&section=header&text=Lay%20Sheth&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Rust%20Enthusiast%20|%20Python%20Virtuoso%20|%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
+
+![GitHub User's stars](https://img.shields.io/github/stars/cloaky233)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Deep+Learning+Practitioner;Rust+Enthusiast+and+Dev;AutoML+Explorer;Diving+Deep+into+Rust" alt="Typing SVG" />
 </p>
@@ -85,6 +88,7 @@ I'm always open to collaborating on projects and innovative ideas. Feel free to 
   <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://cloaky.works"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
