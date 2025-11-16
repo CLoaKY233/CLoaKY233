@@ -1,2 +1,6 @@
 CLoaKY233/axum-backend
 CLoaKY233/Multi-cycle-RAG
+CLoaKY233/MIST
+CLoaKY233/Plottypus
+CLoaKY233/Yoink
+CLoaKY233/Binary-Classifier-CNN

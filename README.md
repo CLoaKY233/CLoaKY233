@@ -3,39 +3,40 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Python+%26+Rust+Synergist;Distributed+Systems+%26+ML+Engineer;Agentless+Infra+Monitoring+Backend;Multi-cycle+RAG+%2F+LLM+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Rust+%26+Python;Distributed+Systems;RAG+%26+LLM+Systems;Fast,+Safe+Backends" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23000000.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/zed-%23000000.svg?style=for-the-badge&logo=zed-industries&logoColor=white" />
   <img src="https://img.shields.io/badge/SurrealDB-%23000000.svg?&style=for-the-badge&logo=surrealdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%23000000.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23000000.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Polars-%23000000.svg?&style=for-the-badge&logo=polars&logoColor=white" />
+
 </p>
 
 ## About Me
 
 Final-year CS student focused on Rust-based backend systems, ML infrastructure, and high-performance agentless monitoring.  
-- Exploring: Rust, deep neural networks, SurrealDB, vector search  
+- Exploring: Rust, zed, SurrealDB, vector search and improvements 
 - Building: infra monitoring backends, RAG/LLM orchestration engines, distributed data pipelines  
-- Mission: ship production-grade systems that blend ML intelligence with systems-level reliability  
+- Mission: Code production-grade systems that blend ML intelligence with systems-level reliability  
 
-## Tech Stack
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache-Kafka&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=OpenCV&logoColor=white)
-![SurrealDB](https://img.shields.io/badge/-SurrealDB-000000?style=flat-square&logo=SurrealDB&logoColor=white)
 
 ## Featured Repositories
 
 <!-- REPO-TABLE:START -->
+| Repo | Description | Stars |
+| --- | --- | --- |
+| [Axum-Backend](https://github.com/CLoaKY233/Axum-Backend) | Health Monitoring and metrics tool for AI insights and Dashboards | ⭐ 0 |
+| [Multi-cycle-RAG](https://github.com/CLoaKY233/Multi-cycle-RAG) | RAG with web search, self correction, gap detection and query loops | ⭐ 6 |
+| [MIST](https://github.com/CLoaKY233/MIST) | MCP server empowering AI assistants with real-world capabilities: Gmail, Calendar, Tasks, Git integration, and note management. Bridges AI assistants to external services through standardized protocol with secure authentication. | ⭐ 10 |
+| [Plottypus](https://github.com/CLoaKY233/Plottypus) | Plottypus is a Rust-based GUI app for real-time serial data plotting. It lets users select serial ports, set baud rates, start/stop data collection, and view live charts. Features include adjustable plot window length and a help section. Easy to install and use for serial data analysis. | ⭐ 1 |
+| [Yoink](https://github.com/CLoaKY233/Yoink) | Simple proof of concept URL Shortener using Rust-lang | ⭐ 0 |
+| [Binary-Classifier-CNN](https://github.com/CLoaKY233/Binary-Classifier-CNN) | A Convolutional Neural Network (CNN) implementation using PyTorch and TensorFlow/Keras to classify images of cats and dogs. This project includes training scripts, model architectures, and instructions for easy setup and usage. | ⭐ 1 |
 <!-- REPO-TABLE:END -->
 
 ## Daily.dev

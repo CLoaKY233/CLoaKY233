@@ -52,8 +52,13 @@ def build_table():
 
 def replace_section(markdown: str, new_table: str) -> str:
     pattern = r"(<!-- REPO-TABLE:START -->)(.*?)(<!-- REPO-TABLE:END -->)"
-    replacement = r"\\1\n" + new_table + r"\n\\3"
-    return re.sub(pattern, replacement, markdown, flags=re.S)
+
+    def _repl(match):
+        # group(1) = <!-- REPO-TABLE:START -->
+        # group(3) = <!-- REPO-TABLE:END -->
+        return f"{match.group(1)}\n{new_table}\n{match.group(3)}"
+
+    return re.sub(pattern, _repl, markdown, flags=re.S)
 
 
 def main():
