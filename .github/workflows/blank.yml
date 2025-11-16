@@ -1,11 +1,13 @@
-name: daily-devcard
+name: profile-automation
+
 on:
   workflow_dispatch:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # daily
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
@@ -17,3 +19,30 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update devcard.png"
+
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    needs: devcard
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Update repo table
+        run: python scripts/update_repo_table.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update featured repos table"
