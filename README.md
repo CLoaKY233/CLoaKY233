@@ -33,7 +33,7 @@ Final-year CS student focused on Rust-based backend systems, ML infrastructure, 
 | --- | --- | --- |
 | [Axum-Backend](https://github.com/CLoaKY233/Axum-Backend) | Health Monitoring and metrics tool for AI insights and Dashboards | ⭐ 0 |
 | [Multi-cycle-RAG](https://github.com/CLoaKY233/Multi-cycle-RAG) | RAG with web search, self correction, gap detection and query loops | ⭐ 6 |
-| [MIST](https://github.com/CLoaKY233/MIST) | MCP server empowering AI assistants with real-world capabilities: Gmail, Calendar, Tasks, Git integration, and note management. Bridges AI assistants to external services through standardized protocol with secure authentication. | ⭐ 10 |
+| [MIST](https://github.com/CLoaKY233/MIST) | MCP server empowering AI assistants with real-world capabilities: Gmail, Calendar, Tasks, Git integration, and note management. Bridges AI assistants to external services through standardized protocol with secure authentication. | ⭐ 11 |
 | [Plottypus](https://github.com/CLoaKY233/Plottypus) | Plottypus is a Rust-based GUI app for real-time serial data plotting. It lets users select serial ports, set baud rates, start/stop data collection, and view live charts. Features include adjustable plot window length and a help section. Easy to install and use for serial data analysis. | ⭐ 1 |
 | [Yoink](https://github.com/CLoaKY233/Yoink) | Simple proof of concept URL Shortener using Rust-lang | ⭐ 0 |
 | [Binary-Classifier-CNN](https://github.com/CLoaKY233/Binary-Classifier-CNN) | A Convolutional Neural Network (CNN) implementation using PyTorch and TensorFlow/Keras to classify images of cats and dogs. This project includes training scripts, model architectures, and instructions for easy setup and usage. | ⭐ 1 |
