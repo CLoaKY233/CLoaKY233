@@ -55,7 +55,7 @@ I'm always open to collaborating on systems, infra, and ML-heavy projects. Feel 
   <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://cloaky.works"><img src="https://img.shields.io/badge/Website-cloaky.works-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <!-- <a href="https://cloaky.works"><img src="https://img.shields.io/badge/Website-cloaky.works-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 </p>
 
 <div align="center">
