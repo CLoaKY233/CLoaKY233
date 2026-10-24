@@ -37,7 +37,12 @@ def build_table():
         return "| Repo | Description | Stars |\n| --- | --- | --- |\n| _No repositories configured yet_ |  |  |"
     rows = []
     for full in featured:
-        data = fetch_repo(full)
+        try:
+            data = fetch_repo(full)
+        except requests.HTTPError as err:
+            # A renamed, deleted or private repo should not break the whole table.
+            print(f"skipping {full}: {err}")
+            continue
         name = data["name"]
         url = data["html_url"]
         desc = (data.get("description") or "").replace("|", "\\|")

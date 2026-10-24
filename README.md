@@ -20,10 +20,10 @@
 
 ## About Me
 
-Final-year CS student focused on Rust-based backend systems, ML infrastructure, and high-performance agentless monitoring.  
-- Exploring: Rust, zed, SurrealDB, vector search and improvements 
-- Building: infra monitoring backends, RAG/LLM orchestration engines, distributed data pipelines  
-- Mission: Code production-grade systems that blend ML intelligence with systems-level reliability  
+CS graduate (VIT, 2026) building Rust systems and AI developer tools.
+- Building: [plottypus](https://plottypus.com), code review for coding agents, and [siltop](https://github.com/CLoaKY233/siltop), a terminal system monitor for Apple Silicon Macs
+- Exploring: diffusion language models from scratch ([joey](https://github.com/CLoaKY233/joey)), Rust, SurrealDB, vector search
+- Mission: Code production-grade systems that blend ML intelligence with systems-level reliability
 
 
 ## Featured Repositories
@@ -31,12 +31,12 @@ Final-year CS student focused on Rust-based backend systems, ML infrastructure, 
 <!-- REPO-TABLE:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [Axum-Backend](https://github.com/CLoaKY233/Axum-Backend) | Health Monitoring and metrics tool for AI insights and Dashboards | ⭐ 0 |
+| [siltop](https://github.com/CLoaKY233/siltop) | Terminal system monitor for Apple Silicon Macs: CPU, GPU, power, temperatures, processes. | ⭐ 71 |
+| [joey](https://github.com/CLoaKY233/joey) | A masked-diffusion language model (MDLM/LLaDA-style) built from scratch in PyTorch | ⭐ 1 |
+| [serial-plotter](https://github.com/CLoaKY233/serial-plotter) | Real-time serial-port plotter for ESP32 EMG signals, written in Rust (2024). | ⭐ 0 |
 | [Multi-cycle-RAG](https://github.com/CLoaKY233/Multi-cycle-RAG) | RAG with web search, self correction, gap detection and query loops | ⭐ 11 |
-| [MIST](https://github.com/CLoaKY233/MIST) | MCP server empowering AI assistants with real-world capabilities: Gmail, Calendar, Tasks, Git integration, and note management. Bridges AI assistants to external services through standardized protocol with secure authentication. | ⭐ 13 |
-| [plottypus](https://github.com/CLoaKY233/plottypus) | System monitor for Apple Silicon, in the terminal. Binaries and releases. Source is not in this repo. | ⭐ 0 |
-| [Yoink](https://github.com/CLoaKY233/Yoink) | Simple proof of concept URL Shortener using Rust-lang | ⭐ 0 |
-| [Binary-Classifier-CNN](https://github.com/CLoaKY233/Binary-Classifier-CNN) | A Convolutional Neural Network (CNN) implementation using PyTorch and TensorFlow/Keras to classify images of cats and dogs. This project includes training scripts, model architectures, and instructions for easy setup and usage. | ⭐ 1 |
+| [MIST](https://github.com/CLoaKY233/MIST) | MCP server that gives AI assistants Gmail, Calendar, Tasks, Git and notes | ⭐ 13 |
+| [EmbraceDB](https://github.com/CLoaKY233/EmbraceDB) | Embeddable key-value storage engine in C++23: B+Tree, write-ahead log and snapshot recovery | ⭐ 2 |
 <!-- REPO-TABLE:END -->
 
 ## Daily.dev
@@ -53,11 +53,13 @@ I'm always open to collaborating on systems, infra, and ML-heavy projects. Feel 
 
 <p align="center">
   <a href="mailto:laysheth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cloaky233"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/laysheth"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/laysheth1"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.github.com/cloaky233"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://plottypus.com"><img src="https://img.shields.io/badge/plottypus-plottypus.com-000000?style=for-the-badge&logoColor=white" /></a>
   <!-- <a href="https://cloaky.works"><img src="https://img.shields.io/badge/Website-cloaky.works-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:9f9f9f,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=100&section=footer" width="100%"/>
 </div>
