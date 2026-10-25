@@ -31,7 +31,7 @@ CS graduate (VIT, 2026) building Rust systems and AI developer tools.
 <!-- REPO-TABLE:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [siltop](https://github.com/CLoaKY233/siltop) | Terminal system monitor for Apple Silicon Macs: CPU, GPU, power, temperatures, processes. | ⭐ 71 |
+| [siltop](https://github.com/CLoaKY233/siltop) | Terminal system monitor for Apple Silicon Macs: CPU, GPU, power, temperatures, processes. | ⭐ 72 |
 | [joey](https://github.com/CLoaKY233/joey) | A masked-diffusion language model (MDLM/LLaDA-style) built from scratch in PyTorch | ⭐ 1 |
 | [serial-plotter](https://github.com/CLoaKY233/serial-plotter) | Real-time serial-port plotter for ESP32 EMG signals, written in Rust (2024). | ⭐ 0 |
 | [Multi-cycle-RAG](https://github.com/CLoaKY233/Multi-cycle-RAG) | RAG with web search, self correction, gap detection and query loops | ⭐ 11 |
